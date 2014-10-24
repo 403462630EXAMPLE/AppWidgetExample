@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="300dp"
+    android:minHeight="200dp"
+    android:minResizeWidth="100dp"
+    android:minResizeHeight="50dp"
+    android:previewImage="@android:drawable/ic_input_add"
+    android:updatePeriodMillis="5000"
+    android:resizeMode="vertical|horizontal"
+    android:initialLayout="@layout/activity_my"
+    android:widgetCategory="home_screen|keyguard"
+    android:initialKeyguardLayout="@layout/activity_my"
+    >
+</appwidget-provider>
